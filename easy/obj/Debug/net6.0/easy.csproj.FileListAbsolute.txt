@@ -1,0 +1,15 @@
+/Users/collincampbell/leetcode/easy/bin/Debug/net6.0/easy
+/Users/collincampbell/leetcode/easy/bin/Debug/net6.0/easy.deps.json
+/Users/collincampbell/leetcode/easy/bin/Debug/net6.0/easy.runtimeconfig.json
+/Users/collincampbell/leetcode/easy/bin/Debug/net6.0/easy.dll
+/Users/collincampbell/leetcode/easy/bin/Debug/net6.0/easy.pdb
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.csproj.AssemblyReference.cache
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.AssemblyInfoInputs.cache
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.AssemblyInfo.cs
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.csproj.CoreCompileInputs.cache
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.dll
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/refint/easy.dll
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.pdb
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/easy.genruntimeconfig.cache
+/Users/collincampbell/leetcode/easy/obj/Debug/net6.0/ref/easy.dll

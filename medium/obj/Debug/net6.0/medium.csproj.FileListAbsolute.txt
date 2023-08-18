@@ -1,0 +1,5 @@
+/Users/collincampbell/leetcode/medium/obj/Debug/net6.0/medium.csproj.AssemblyReference.cache
+/Users/collincampbell/leetcode/medium/obj/Debug/net6.0/medium.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collincampbell/leetcode/medium/obj/Debug/net6.0/medium.AssemblyInfoInputs.cache
+/Users/collincampbell/leetcode/medium/obj/Debug/net6.0/medium.AssemblyInfo.cs
+/Users/collincampbell/leetcode/medium/obj/Debug/net6.0/medium.csproj.CoreCompileInputs.cache
